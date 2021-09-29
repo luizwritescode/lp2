@@ -10,6 +10,10 @@ class Enemy {
     public float def;
     public float fov;
 
+    //ATRIBUTOS INIMGO
+    public String tier;
+    public int loot; // criar objeto Loot
+
     //STATS para a DB
     public float dmgReceived;
     public float venomDmgReceived;

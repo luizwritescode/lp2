@@ -9,6 +9,7 @@ class Player {
     public float atk;
     public float def;
     public float fov;
+    public float lifeSteal;
     public int tokens;
 
     //STATS para a DB
